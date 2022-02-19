@@ -1,13 +1,18 @@
 # Inverse-of-matrix
 
 ## AIM:
-
+To find a Inverse-of-matrix
 ## ALGORITHM:
 ### Step 1:
+import numpy as np
 ### Step 2:
+Get the input in integer
 ### Step 3:
+Append the list using for loop
 ### Step 4:
+For finding inverse we give inverse =np.linalg.inv
 ### Step 5:
+now print(inverse)
 
 
 ## PROGRAM:
@@ -32,3 +37,4 @@ print(inverse)
 ![GitHub Logo](/image.png)
 
 ## RESULT:
+Thus the inverse of matrix is implemented using python programming
